@@ -9,10 +9,8 @@ practice started
 thanks
 
 done with changes
-<<<<<<< HEAD
 practice returned
 
 hii
-=======
 Added new line
->>>>>>> 5ca7c5713e6e8bb8a003b92f13ce7e9de541b7a7
+
